@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0287-find-the-duplicate-number) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
