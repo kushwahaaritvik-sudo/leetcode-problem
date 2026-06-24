@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0287-find-the-duplicate-number) |
+| [1732-find-the-highest-altitude](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/1732-find-the-highest-altitude) |
 | [2965-find-missing-and-repeated-values](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0240-search-a-2d-matrix-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
