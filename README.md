@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0074-search-a-2d-matrix) |
 | [0204-count-primes](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0240-search-a-2d-matrix-ii) |
@@ -73,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/1732-find-the-highest-altitude) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
