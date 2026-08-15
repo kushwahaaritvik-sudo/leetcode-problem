@@ -82,4 +82,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0051-n-queens) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
