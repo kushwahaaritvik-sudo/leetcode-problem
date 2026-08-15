@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0387-first-unique-character-in-a-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0151-reverse-words-in-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0443-string-compression) |
 ## Enumeration
 |  |
@@ -94,4 +96,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0225-implement-stack-using-queues) |
+| [0387-first-unique-character-in-a-string](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
