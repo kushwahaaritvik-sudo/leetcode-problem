@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0074-search-a-2d-matrix) |
 | [0204-count-primes](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0204-count-primes) |
+| [0239-sliding-window-maximum](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0287-find-the-duplicate-number) |
 | [1732-find-the-highest-altitude](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/1732-find-the-highest-altitude) |
@@ -96,9 +97,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0225-implement-stack-using-queues) |
+| [0239-sliding-window-maximum](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0387-first-unique-character-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
