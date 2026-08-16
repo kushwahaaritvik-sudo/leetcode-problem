@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0074-search-a-2d-matrix) |
+| [0134-gas-station](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0134-gas-station) |
 | [0204-count-primes](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0204-count-primes) |
 | [0239-sliding-window-maximum](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0240-search-a-2d-matrix-ii) |
@@ -119,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0239-sliding-window-maximum) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
