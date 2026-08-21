@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0001-two-sum) |
 | [0051-n-queens](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0074-search-a-2d-matrix) |
 | [0134-gas-station](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0134-gas-station) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0001-two-sum) |
 | [0387-first-unique-character-in-a-string](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0387-first-unique-character-in-a-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
