@@ -135,4 +135,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
