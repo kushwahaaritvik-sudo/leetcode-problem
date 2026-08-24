@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0002-add-two-numbers) |
 | [0204-count-primes](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0204-count-primes) |
+| [1872-stone-game-viii](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/1872-stone-game-viii) |
 | [2965-find-missing-and-repeated-values](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/2965-find-missing-and-repeated-values) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Recursion
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0287-find-the-duplicate-number) |
 | [1732-find-the-highest-altitude](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/1732-find-the-highest-altitude) |
+| [1872-stone-game-viii](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/1872-stone-game-viii) |
 | [2965-find-missing-and-repeated-values](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/2965-find-missing-and-repeated-values) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Hash Table
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/1732-find-the-highest-altitude) |
+| [1872-stone-game-viii](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/1872-stone-game-viii) |
 ## Backtracking
 |  |
 | ------- |
@@ -180,4 +183,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/1872-stone-game-viii) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/1872-stone-game-viii) |
+## Game Theory
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
