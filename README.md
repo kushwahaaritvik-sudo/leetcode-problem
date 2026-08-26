@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0009-palindrome-number) |
 | [0204-count-primes](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0204-count-primes) |
 | [1872-stone-game-viii](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/1872-stone-game-viii) |
 | [2965-find-missing-and-repeated-values](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/2965-find-missing-and-repeated-values) |
