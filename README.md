@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0011-container-with-most-water) |
 | [0051-n-queens](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0074-search-a-2d-matrix) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0287-find-the-duplicate-number) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0240-search-a-2d-matrix-ii) |
 ## Prefix Sum
 |  |
