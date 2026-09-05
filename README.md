@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0002-add-two-numbers) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0225-implement-stack-using-queues](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0225-implement-stack-using-queues) |
 ## Design
 |  |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0100-same-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0543-diameter-of-binary-tree) |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0100-same-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0543-diameter-of-binary-tree) |
@@ -181,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0100-same-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0543-diameter-of-binary-tree) |
