@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0006-zigzag-conversion](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0006-zigzag-conversion) |
 | [0151-reverse-words-in-a-string](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0387-first-unique-character-in-a-string) |
