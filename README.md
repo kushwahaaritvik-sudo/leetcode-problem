@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0011-container-with-most-water) |
 | [0051-n-queens](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0074-search-a-2d-matrix) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0134-gas-station) |
 | [0204-count-primes](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0204-count-primes) |
 | [0239-sliding-window-maximum](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0239-sliding-window-maximum) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0004-median-of-two-sorted-arrays) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0240-search-a-2d-matrix-ii) |
 ## Prefix Sum
 |  |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0100-same-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0257-binary-tree-paths) |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0100-same-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0257-binary-tree-paths) |
@@ -228,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/1872-stone-game-viii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
