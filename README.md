@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0443-string-compression) |
+| [3498-reverse-degree-of-a-string](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/3498-reverse-degree-of-a-string) |
 ## Enumeration
 |  |
 | ------- |
@@ -255,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/0783-minimum-distance-between-bst-nodes) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
