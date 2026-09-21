@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/1872-stone-game-viii) |
 | [2965-find-missing-and-repeated-values](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/2965-find-missing-and-repeated-values) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3524-find-x-value-of-array-i](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/3524-find-x-value-of-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/1872-stone-game-viii) |
 | [2965-find-missing-and-repeated-values](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/2965-find-missing-and-repeated-values) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3524-find-x-value-of-array-i](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/3524-find-x-value-of-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/1872-stone-game-viii) |
+| [3524-find-x-value-of-array-i](https://github.com/kushwahaaritvik-sudo/leetcode-problem/tree/master/3524-find-x-value-of-array-i) |
 ## Minimax
 |  |
 | ------- |
